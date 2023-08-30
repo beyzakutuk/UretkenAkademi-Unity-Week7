@@ -253,15 +253,15 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 163953658}
-  m_LocalRotation: {x: -0.26810053, y: -0.03420011, z: 0.005450178, w: -0.9627683}
-  m_LocalPosition: {x: -0.030000001, y: 2.41, z: -1.51}
+  m_LocalRotation: {x: -0.19291809, y: -0.03451896, z: 0.0027916706, w: -0.9806036}
+  m_LocalPosition: {x: -0.05, y: 2, z: -1.76}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1262013617}
   m_Father: {fileID: 223974227}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 31.105, y: 4.215, z: 0.525}
+  m_LocalEulerAnglesHint: {x: 22.244, y: 4.128, z: 0.486}
 --- !u!1 &223974226 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63038c7e959eb4219b4b6c6afe366621, type: 3}
@@ -578,7 +578,7 @@ GameObject:
   - component: {fileID: 338934342}
   m_Layer: 0
   m_Name: Cylinder (5)
-  m_TagString: Untagged
+  m_TagString: puan10
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1011,7 +1011,7 @@ GameObject:
   - component: {fileID: 540866285}
   m_Layer: 0
   m_Name: Cylinder (10)
-  m_TagString: Untagged
+  m_TagString: puan10
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1228,7 +1228,7 @@ GameObject:
   - component: {fileID: 590284552}
   m_Layer: 0
   m_Name: Cylinder (8)
-  m_TagString: Untagged
+  m_TagString: puan5
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2354,7 +2354,7 @@ GameObject:
   - component: {fileID: 810566318}
   m_Layer: 0
   m_Name: Cylinder (3)
-  m_TagString: Untagged
+  m_TagString: puan5
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2997,7 +2997,7 @@ GameObject:
   - component: {fileID: 931732275}
   m_Layer: 0
   m_Name: Cylinder (7)
-  m_TagString: Untagged
+  m_TagString: puan5
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3395,8 +3395,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: -0.26810053, y: -0.03420011, z: 0.005450178, w: -0.9627683}
-  m_LocalPosition: {x: -0.030000001, y: 2.41, z: -1.51}
+  m_LocalRotation: {x: -0.19291809, y: -0.03451896, z: 0.0027916706, w: -0.9806036}
+  m_LocalPosition: {x: -0.05, y: 2, z: -1.76}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4046,7 +4046,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_BindingMode: 1
-  m_FollowOffset: {x: -0.030000001, y: 2.41, z: -1.51}
+  m_FollowOffset: {x: -0.05, y: 2, z: -1.76}
   m_XDamping: 1
   m_YDamping: 1
   m_ZDamping: 1
@@ -4109,7 +4109,7 @@ GameObject:
   - component: {fileID: 1333760252}
   m_Layer: 0
   m_Name: Cylinder (4)
-  m_TagString: Untagged
+  m_TagString: puan5
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4229,7 +4229,7 @@ GameObject:
   - component: {fileID: 1382784672}
   m_Layer: 0
   m_Name: Cylinder
-  m_TagString: Untagged
+  m_TagString: puan5
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4662,7 +4662,7 @@ GameObject:
   - component: {fileID: 1629495817}
   m_Layer: 0
   m_Name: Cylinder (1)
-  m_TagString: Untagged
+  m_TagString: puan10
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5030,7 +5030,7 @@ GameObject:
   - component: {fileID: 1696605779}
   m_Layer: 0
   m_Name: Cylinder (9)
-  m_TagString: Untagged
+  m_TagString: puan10
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5247,7 +5247,7 @@ GameObject:
   - component: {fileID: 1749568727}
   m_Layer: 0
   m_Name: Cylinder (2)
-  m_TagString: Untagged
+  m_TagString: puan10
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5949,7 +5949,7 @@ GameObject:
   - component: {fileID: 1891958970}
   m_Layer: 0
   m_Name: Cylinder (6)
-  m_TagString: Untagged
+  m_TagString: puan10
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

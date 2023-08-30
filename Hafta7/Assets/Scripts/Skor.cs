@@ -30,6 +30,20 @@ public class Skor : MonoBehaviour
             PlayerPrefs.SetFloat("Skor", skor);
         }
 
+        if (col.gameObject.tag == "puan5")
+        {
+            Destroy(col.gameObject);
+            skor = skor +5;
+            PlayerPrefs.SetFloat("Skor", skor);
+        }
+
+        if (col.gameObject.tag == "puan10")
+        {
+            Destroy(col.gameObject);
+            skor = skor + 10;
+            PlayerPrefs.SetFloat("Skor", skor);
+        }
+
         print(PlayerPrefs.GetFloat("Skor"));
         temp = skor.ToString();
         _text.text = temp;
